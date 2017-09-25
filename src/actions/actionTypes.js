@@ -1,0 +1,2 @@
+export const GAME_CREATE = 'GAME_CREATE';
+export const LOAD_GAMES_SUCCESS = 'LOAD_GAMES_SUCCESS';
